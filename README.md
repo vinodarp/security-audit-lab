@@ -33,7 +33,7 @@ This lab was structured using a customized checklist inspired by NIST standards 
 ---
 
 ## 📁 Included File
-- `company_audit_checklist.pdf`: Full checklist with assessments and notes on each item.
+[`security_audit_checklist_vinicius.pdf`](./security_audit_checklist_vinicius.pdf)
 
 ---
 
